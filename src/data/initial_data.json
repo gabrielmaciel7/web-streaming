@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "title": "Movies",
+      "color": "#E40813",
+      "videos": [
+        {
+          "title": "Dark",
+          "url": "https://youtube.com/watch?v=ESEUoa-mz2c"
+        },
+        {
+          "title": "Marvel's Avengers: Age of Ultron",
+          "url": "https://youtube.com/watch?v=tmeOjFno6Do"
+        },
+        {
+          "title": "The Boy Who Harnessed The Wind",
+          "url": "https://www.youtube.com/watch?v=nPkr9HmglG0"
+        },
+        {
+          "title": "Captain Fantastic",
+          "url": "https://www.youtube.com/watch?v=D1kH4OMIOMc"
+        },
+        {
+          "title": "The Shawshank Redemption",
+          "url": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+        },
+        {
+          "title": "Memento",
+          "url": "https://www.youtube.com/watch?v=sHRiMXd5fos"
+        },
+        {
+          "title": "12 YEARS A SLAVE",
+          "url": "youtube.com/watch?v=z02Ie8wKKRg"
+        },
+        {
+          "title": "Fight Club",
+          "url": "youtube.com/watch?v=CR5Jp_ag2M8"
+        },
+        {
+          "title": "Interestelar",
+          "url": "https://www.youtube.com/watch?v=BYUZhddDbdc"
+        }        
+      ]
+    },
+    {
+      "title": "Series",
+      "color": "#E40813",
+      "videos": [
+        {
+          "title": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+        },
+        {
+          "title": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=2-W6_6gJda0"
+        },
+        {
+          "title": "The Handmaid's Tale",
+          "url": "youtube.com/watch?v=1WLqBUi4r6o"
+        },
+        {
+          "title": "Chernobyl",
+          "url": "https://www.youtube.com/watch?v=s9APLXM9Ei8"
+        }, 
+        {
+          "title": "Better Call Saul",
+          "url": "youtube.com/watch?v=HN4oydykJFc"
+        },
+        {
+          "title": "THE HAUNTING OF HILL HOUSE",
+          "url": "https://www.youtube.com/watch?v=3eqxXqJDmcY"
+        },
+        {
+          "title": "Atypical",
+          "url": "https://www.youtube.com/watch?v=ieHh4U-QYwU"
+        },
+        {
+          "title": "Anne With an e",
+          "url": "https://www.youtube.com/watch?v=S5qJXYNNINo"
+        }
+      ]
+    }
+  ]
+}

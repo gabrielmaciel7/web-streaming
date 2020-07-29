@@ -26,7 +26,7 @@
 }
 
 body {
-  --bodyPaddingTop: 94px;
+  --bodyPaddingTop: 80px;
   padding-top: var(--bodyPaddingTop);
 }
 

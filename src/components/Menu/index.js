@@ -12,7 +12,7 @@ const Menu = () => {
       </a>
 
       <Button as="a" className="ButtonLink" href="/">
-        New movie
+        New media
       </Button>
     </nav>
   );
