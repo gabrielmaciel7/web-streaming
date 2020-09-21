@@ -12,9 +12,9 @@ const Menu = () => {
         <img className="Logo" src={Logo} alt="Streaming logo" />
       </Link>
 
-      <Button as={Link} className="ButtonLink" to="/register/media">
+      {/* <Button as={Link} className="ButtonLink" to="/register/media">
         New media
-      </Button>
+      </Button> */}
     </nav>
   );
 };
